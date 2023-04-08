@@ -13,7 +13,7 @@
 - <b>Other Project</b>
   - [Hi, I'm waiting for a project](https://github.com/DavisMS)
 - <b>Python</b>
-  - [Manual Web Scraper (Music Therapy Treatment and Schizophrenia))](https://github.com/DavisMS)
+  - [Manual Web Scraper (Music Therapy Treatment and Schizophrenia))](https://github.com/DavisMS/MusicTherapyAnalysis-Schizophrenia)
 
 <h2> Certifications:</h2>
 
