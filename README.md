@@ -9,7 +9,7 @@
   - [Python](https://github.com/DavisMS)
   - [JavaScript](https://github.com/DavisMS)
 - <b>HTML/CSS/JavaScript</b>
-  - [Static Website (Dog Grooming Business)](https://github.com/DavisMS)
+  - [Static Website (Dog Grooming Business)](https://github.com/DavisMS/static-website1)
 - <b>Other Project</b>
   - [Hi, I'm waiting for a project](https://github.com/DavisMS)
 - <b>Python</b>
