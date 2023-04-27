@@ -1,5 +1,5 @@
 <h1>Hello, I am Matthew Davis.</h1>
- I am a student of internet technologies utilizing what I have learned, along the way, for the work I do today. 
+ I am a student of Computer and Information Technology utilizing internet technology skills to further my experience in the tech industry. 
 <br/>
 
 <h2> Projects: </h2>
