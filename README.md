@@ -4,7 +4,7 @@
 
 <h2> Projects: </h2>
 
-- <b>PC Building, Management, and Operating Systems</b>
+- <b>PC Building</b>
   - [Windows Machine](https://github.com/DavisMS/PC_Building)
 - <b>HTML/CSS/JavaScript</b>
   - [Static Website (Dog Grooming Business)](https://github.com/DavisMS/static-website1)
@@ -12,6 +12,18 @@
   - [Music Therapy Treatment for Schizophrenia](https://github.com/DavisMS/MusicTherapyAnalysis-Schizophrenia)
 - <b>Full Stack Web App</b>
   - [Python Payroll](https://github.com/DavisMS/Python_p6_Payroll)
+
+<h2>Technical Skills:</h2>
+
+- Computer Maintenance
+- Computer Installation
+- Software Troubleshooting
+- Hardware Troubleshooting
+- JavaScript
+- Python
+- HTML5
+- CSS
+- MySQL
 
 <h2> Certifications:</h2>
 
