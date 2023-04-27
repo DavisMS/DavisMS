@@ -1,5 +1,5 @@
 <h1>Hello, I am Matthew Davis.</h1>
- I am a student of Computer and Information Technology looking to further my skills in internet technologies. I have always been interested in how technology works, from the interaction of hardware and software to the visual design of the interfaces we use daily. I have education and experience in using Python, SQL, JavaScript, and HTML/CSS, alongside foundational knowledge in computer repair, troubleshooting, networking, and security. 
+I am a Computer and Information Technology student looking to utilize my skills in Internet Technologies. I have always been interested in how technology works from the interaction of hardware and software, to configuring different technologies as well as helping others set up their computer systems. I have foundational computer repair, troubleshooting, networking, and security knowledge, along with education and experience in using JavaScript, Python, HTML5/CSS, and MySQL. 
 <br/>
 
 <h2> Projects: </h2>
