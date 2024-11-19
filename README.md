@@ -10,14 +10,12 @@ With all that I have learned, I am currently working as an intern in Information
 
 <h2> Experience: </h2>
 
-- <b>Information and Technology Solutions Internship</b>
+- <b>[Information and Technology Solutions Internship](https://github.com/DavisMS/ITSolutions-Internship/tree/main)</b>
 
 <h2> Projects: </h2>
 
 - <b>PC Building</b>
   - [Windows Machine](https://github.com/DavisMS/PC_Building)
-- <b>CISCO Lab</b>
-  - [A Small Network in Packet Tracer](https://github.com/DavisMS/PC_Building)
 - <b>HTML/CSS/JavaScript</b>
   - [Static Website (Dog Grooming Business)](https://github.com/DavisMS/static-website1)
 - <b>Python: Web Scraper</b>
